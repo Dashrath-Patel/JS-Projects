@@ -22,7 +22,6 @@ cat.describe();
 
 //we can functions inside the class
 
-
 //we can have static function in the class , that are associated with the class itself rather than any particular instance(object)
 
 Animal.describeAllAnimals();
